@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968583381740",
+    "project_id": "cans-industries",
+    "storage_bucket": "cans-industries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968583381740:android:cb97213e8df46a86b41bc9",
+        "android_client_info": {
+          "package_name": "com.example.cans_industries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCZDlGn0QH0GaLwjRXa919uqEXFmDYVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
